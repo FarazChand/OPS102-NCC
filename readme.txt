@@ -1,0 +1,1 @@
+This is just a directory to take notes on the information presented in the List Server for OPS102.
